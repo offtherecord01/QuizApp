@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quizz App</string>
+    <string name="question1">Question 1: </string>
+    <string name="dp_sp">which unit of measure is used for text sizing?</string>
+    <string name="or">or</string>
+    <string name="question2">Question 2: </string>
+    <string name="type_textcolor">Below, type the xml line for a textView with black text. </string>
+    <string name="question3">Question 3: </string>
+    <string name="pickElement"> which of these element values are valid?  </string>
+    <string name="match_content">match_content </string>
+    <string name="wrap_content">wrap_content </string>
+    <string name="match_parent">match_parent</string>
+    <string name="wrap_parent">wrap_parent</string>
+    <string name="question4">Question 4: </string>
+    <string name="pickView">which of these are valid views?</string>
+    <string name="Textview">Textview</string>
+    <string name="image_view">image_view</string>
+    <string name="TextView">TextView</string>
+    <string name="ImageView">ImageView</string>
+    <string name="submit_answers">Submit answers </string>
+</resources>
